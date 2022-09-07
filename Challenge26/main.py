@@ -20,7 +20,6 @@ def VerbosePrint(*Data):
 	if VERBOSE:
 		print("[DEBUG]:", *Data)
 
-
 Numbers = [None, None, None, None]
 FoundNumbers = [False, False, False, False]
 History = []
